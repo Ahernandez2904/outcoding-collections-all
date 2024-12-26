@@ -1,0 +1,176 @@
+{
+    "TC-001: SEO Content - communities - Validate footer and heading City with Nature area amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/NatureAreas/City/CommunityResults/Default.xml",
+        "PageUrl": "communities/co/denver-area/aurora?natureareas=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&nature=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-002: SEO Content - communities - Validate footer and heading City with Green amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Green/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?green=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&Green=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-003: SEO Content - communities - Validate footer and heading City with View amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Views/City/CommunityResults/Default.xml",
+        "PageUrl": "communities/co/denver-area/aurora?views=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&views=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-004: SEO Content - communities - Validate footer and heading City with Pool amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Pool/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?pool=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&pool=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-005: SEO Content - communities - Validate footer and heading City with Waterfront amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Waterfront/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?waterfront=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&waterfront=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-006: SEO Content - communities - Validate footer and heading City with Sport amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Sport/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?sports=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&Sports=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-007: SEO Content - communities - Validate footer and heading City with Golf amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Golf/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?golfcourse=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&Golf=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-008: SEO Content - communities - Validate footer and heading City with Gated amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/gated/City/CommunityResults/Default.xml",
+        "PageUrl": "communities/co/denver-area/aurora?gated=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&gated=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-009: SEO Content - communities - Validate footer and heading City with Park amenity": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/parks/City/CommunityResults/Default.xml",
+        "PageUrl": "communities/co/denver-area/aurora?parks=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&parks=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-010: SEO Content - communities - Validate footer and heading City Single Family": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/HomeType/SingleFamily/City/CommunityResults/Default.xml",
+        "PageUrl": "single-family-communities/co/denver-area/aurora",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&Sf=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-011: SEO Content - communities - Validate footer and heading City Luxury": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/HomeType/Luxury/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?luxury=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&luxury=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-012: SEO Content - communities - Validate footer and heading City Condos and Towncommunities": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/HomeType/MultiFamily/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "condo-towncommunities/co/denver-area/aurora",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&mf=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-013: SEO Content - communities - Validate footer and heading City Custom communities": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/City/CustomcommunitiesResults/CO_Aurora.xml",
+        "PageUrl": "custom-communities/co/denver-area/aurora",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&custom=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-014: SEO Content - communities - Validate footer and heading City Adult": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/Amenities/Adult/City/CommunityResults/CO_Aurora.xml",
+        "PageUrl": "communities/co/denver-area/aurora?adult=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&adult=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    },
+    "TC-015: SEO Content - communities - Validate footer and heading City Hot deals": {
+        "city": "Aurora, CO",
+        "ReplaceCodes": {
+            "CityName": "Aurora",
+            "StateID": "CO",
+            "StateName": "Colorado",
+            "MarketName": "Denver"
+        },
+        "SEOUrl": "Shares/BHIContent/NHS/SEOContent/SRP/SpecialOffers/HotDeals/City/CommunityResults/Default.xml",
+        "PageUrl": "communities/co/denver-area/aurora?hotdeals=true",
+        "ApiUrl": "search/communities?algorithm=md5&alpharesults=True&client=Newcommunitiesource&includempc=True&marketid=48&noboyl=1&partnerid=1&sessiontoken=NHSSessionToken&sortby=City&cpromo=true&CountsOnly=true&sortfirstby=Aurora&originlat=39.729401&originlng=-104.831398"
+    }
+}

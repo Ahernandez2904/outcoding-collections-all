@@ -1,0 +1,27 @@
+{
+  "name": "seo-content-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-playwright": "playwright test --config=playwright.config.js",
+    "testStage": "set test_env=stage& npx playwright test",
+    "testProduction": "set test_env=production& npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "1.30",
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "he": "^1.2.0",
+    "jsonpath-plus": "^7.2.0",
+    "playwright": "^1.37.1",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  }
+}

@@ -1,0 +1,63 @@
+{
+	"info": {
+		"_postman_id": "03315703-60af-4e65-8328-21fda9b21a75",
+		"name": "Re Writer",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28892423",
+		"_collection_link": "https://bdxapi.postman.co/workspace/Team-Workspace~7375d8aa-8167-4c9f-8145-ffce518e8156/collection/28892423-03315703-60af-4e65-8328-21fda9b21a75?action=share&creator=28892423&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Re Direct Test",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"status code is 301\", function (){\r",
+							"    pm.response.to.have.status(301);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"New URL\", function ()\r",
+							"{\r",
+							"    var newUrl = pm.environment.get(\"URL\");\r",
+							"    var temp = 'https://www.newhomesource.com';\r",
+							"    var newUrlFromFile = pm.iterationData.get(\"NewDataURL\");\r",
+							"    temp = temp + newUrlFromFile;\r",
+							"    newUrl = newUrl +newUrlFromFile;\r",
+							"    console.log(\"temp ------\"+temp);\r",
+							"    console.log(\"newUrl---------\"+newUrl);\r",
+							"    console.log(\"from file ------------\"+newUrlFromFile);    \r",
+							"    pm.expect(pm.response.headers.get('Location')).to.be.oneOf([newUrl,temp,newUrlFromFile]);\r",
+							"    // pm.expect(pm.response.headers.get('Location')).to.eql();\r",
+							"});\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"followRedirects": false,
+				"maxRedirects": 1
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": []
+				},
+				"url": {
+					"raw": "{{URL}}{{OldURL}}",
+					"host": [
+						"{{URL}}{{OldURL}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
